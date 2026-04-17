@@ -1,6 +1,23 @@
-# 🚀 LLM 上下文工程与 MCP 实战学习指南
+# 🚀 AI Tracker — AI 前沿动态追踪
 
-本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
+本仓库追踪 AI 领域最新动态，推荐优秀的 AI 工具、Skills、开源项目，分享大模型前沿资讯与实战教程。
+
+---
+
+## 📰 最新推文
+
+### 2026-04-17
+
+- [HyperFrames: HeyGen 开源的 AI-First 视频渲染框架](20260417/HyperFrames-HeyGen开源HTML视频渲染框架/content.md) — 用 HTML 写视频，让 AI Agent 做导演
+- [Claude Opus 4.7 重磅发布](20260417/Claude-Opus-4.7重磅发布-编码能力飙升Mythos之影笼罩/content.md) — 编码能力飙升，Mythos 之影笼罩
+
+### 2026-04-16
+
+- [Claude 身份认证升级后的备选总览](20260416/00-Claude身份认证升级后的备选总览-合并版/content.md)
+- [Claude Opus 4.7 爆料 — 新设计工具或本周登场](20260416/Claude-Opus-4.7爆料-新设计工具或本周登场/content.md)
+- [Modal 免费 GLM-5.1 接入 Claude Code 超详细部署教程](20260416/Modal免费GLM-5.1接入Claude-Code超详细部署教程/content.md)
+- [NVIDIA NIM 免费 MiniMax-M2.7 接入 Claude Code 超详细部署教程](20260416/NVIDIA-NIM免费MiniMax-M2.7接入Claude-Code超详细部署教程/content.md)
+- [阿里 ATH 事业群发布首款 AI 开发工具 Meoo](20260416/阿里ATH事业群发布首款AI开发工具Meoo/content.md)
 
 ---
 
@@ -65,5 +82,6 @@
 * **编辑器**: [Cursor](https://www.cursor.com/) 或 [VS Code](https://code.visualstudio.com/)
 * **终端**: [Claude Code](https://anthropic.com/claude-code) (官方 CLI 工具)
 * **客户端**: [Claude Desktop](https://claude.ai/download) (支持 MCP 配置)
+* **社区**: [Linux.do](https://linux.do/) — 高质量中文技术社区，AI / 开源 / 开发者话题活跃
 
 ---
