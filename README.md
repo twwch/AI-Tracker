@@ -8,6 +8,7 @@
 
 ### 2026-04-17
 
+- [AutoClip：AI 驱动的视频智能切片系统](20260417/AutoClip-AI视频智能切片系统/content.md) — 一键提取精彩片段，GitHub 4.4K+ Stars
 - [HyperFrames: HeyGen 开源的 AI-First 视频渲染框架](20260417/HyperFrames-HeyGen开源HTML视频渲染框架/content.md) — 用 HTML 写视频，让 AI Agent 做导演
 - [Claude Opus 4.7 重磅发布](20260417/Claude-Opus-4.7重磅发布-编码能力飙升Mythos之影笼罩/content.md) — 编码能力飙升，Mythos 之影笼罩
 
